@@ -5,7 +5,7 @@ This project has been created as part of the Skill India Python for AI/ML Intern
 
 #About me
 
-I'm a third year student pursuing a Btech degree electronics and communication engineering. I have amateur interests in AI and data science and aim to further these interests.
+I'm a third year student pursuing a Btech degree in electronics and communication engineering. I have amateur interests in AI and data science and aim to further those interests.
 
 #Ways to contact me
 
